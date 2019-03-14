@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=bash /root/Files/restore.sh
+Terminal=true
+Icon=/root/Pictures/anon.png
+Type=Application
+Categories=Development
