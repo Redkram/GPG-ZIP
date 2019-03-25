@@ -1,1 +1,1 @@
-# GPG-ZIP
+# GPG-TAR
